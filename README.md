@@ -40,10 +40,10 @@ Course Mission: L.E.G.S.
 
 Grading
 --------
-**10%** Attendance
-**15%** Participation
-**50%** Projects (5 x 10)
-**25%** Final Web Portfolio
+**10%** Attendance  
+**15%** Participation  
+**50%** Projects (5 x 10%)  
+**25%** Final Web Portfolio  
 
 Schedule
 --------
@@ -73,12 +73,12 @@ Schedule
 
 Projects
 --------
-(see Projects folder for more details)
-1) Home Sweet Home
-2) Sounds Like
-3) Comix
-4) Vid-E-Oh!
-5) Das Fx
+(see Projects folder for more details)  
+1) Home Sweet Home  
+2) Sounds Like  
+3) Comix  
+4) Vid-E-Oh!  
+5) Das Fx  
 
 Final Web Portfolio
 -------------------
