@@ -3,12 +3,12 @@ Agile Web Development: Creating Media For The Web
 (always subject to change)
 
 NYU - ITP  
-Semester: Summer 2016
-Class: Tues/Thurs 12:10pm - 3:05pm
-Room: 721 Broadway 4th Floor Rm. 20
+Semester: Summer 2016  
+Class: Tues/Thurs 12:10pm - 3:05pm  
+Room: 721 Broadway 4th Floor Rm. 20  
 
 Instructor: Craig Protzel  
-Email: craig.protzel@nyu.edu
+Email: craig.protzel@nyu.edu  
 Office Hours: TBD
 
 Course Description
