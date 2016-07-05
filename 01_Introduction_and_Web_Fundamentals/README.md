@@ -29,6 +29,6 @@
 ##### V. Homework
 * Read - [Data + Design - Ch.15 Importance of Color, Fonts, & Icons](https://infoactive.co/data-design/ch15)
 * Read - [Intrducing Wireframes to Your Design Process](http://webdesign.tutsplus.com/articles/introducing-wireframes-to-your-design-process--webdesign-13284)
-* Read - [Ch.3 of Interactive Data Viz for the Web by Scott Murray](http://chimera.labs.oreilly.com/books/1230000000345/index.html) up to but not including the part on javascript. Also note, the link appears to Ch.3 appears to be broken. Make sure you sscroll to the beginning of Chapter 3 and start from there.)
+* Read - [Ch.3 of Interactive Data Viz for the Web by Scott Murray](http://chimera.labs.oreilly.com/books/1230000000345/index.html) up to but not including the part on javascript. Note, in my browser, the link to Ch.3 scrolls to the middle of the chapter. Make sure you scroll up and start at the beginning of Chapter 3.)
 * Review - Web Edu resources listed above
 * Create - a wireframe for Project #1
