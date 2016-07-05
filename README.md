@@ -2,7 +2,7 @@ Agile Web: Creating Media For The Web
 =================================================
 (always subject to change)
 
-NYU - ITP  
+[NYU - ITP](http://tisch.nyu.edu/itp)  
 Semester: Summer 2016  
 Class: Tues/Thurs 12:10pm - 3:05pm  
 Room: 721 Broadway 4th Floor Rm. 20  
@@ -13,7 +13,6 @@ Office Hours: TBD
 
 Course Description
 ------------------
-
 Agile Web is a production based course that will introduce students to the fundamentals of creating media for the web. With basic web development as a consistent backbone to the course, students will be exposed to a range of mediums and technologies including 2D design, digital imaging, sound, video, animation, and effects. The forms and uses of these communications technologies are explored in a laboratory context of experimentation, collaboration, and discussion. Course material will build upon itself with the hope and expectation that students will leverage each project to create the next one. Fundamentals of creative storytelling will be emphasized throughout with an ultimate goal of creating compelling content in the context of the web. The course will be fast-paced and embrace the "agile" philisophy of quick, collabrorative, and incremental workflow.
 
 Learning Outcomes
@@ -47,9 +46,9 @@ Grading
 
 Schedule
 --------
-##### Class 1 (07/05): Introduction + Web Fundamentals 
+##### [Class 1 (07/05): Introduction + Web Fundamentals](https://github.com/craigprotzel/agile-web/tree/master/01_Introduction_and_Web_Fundamentals) 
 
-##### Class 2 (07/07): Web Fundamentals Continued + Git Basics
+##### [Class 2 (07/07): Web Fundamentals Continued + Git Basics](https://github.com/craigprotzel/agile-web/tree/master/02_Web_Fundamentals_Continued))
 
 ##### Class 3 (07/12): Project #1 Due + Intro to Audio
 
@@ -74,11 +73,11 @@ Schedule
 Projects
 --------
 (see Projects folder for more details)  
-1) Home Sweet Home  
-2) Sounds Like  
-3) Comix  
-4) Vid-E-Oh!  
-5) Das Fx  
+**1) Home Sweet Home**  
+**2) Sounds Like**  
+**3) Comix**  
+**4) Vid-E-Oh!**  
+**5) Das Fx**  
 
 Final Web Portfolio
 -------------------
