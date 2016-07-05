@@ -1,4 +1,4 @@
-### Introduction + Web Fundamentals
+### Introduction and Web Fundamentals
 
 ##### I. Course Introduction
 * Lecture
