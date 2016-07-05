@@ -1,7 +1,8 @@
 Agile Web - Projects
 ====================
 
-##### 1: Home Sweet Home - Create your own unique home page. It should include a .html file, a .css file, and a .js file. Your page should live on the world wide web and incorporate at least one element of "interactivity".
+##### 1: Home Sweet Home
+Create your own unique home page. It should include a .html file, a .css file, and a .js file. Your page should live on the world wide web and incorporate at least one element of "interactivity".
 
 The grading rubric for this assignment is the following:
 * 10: Markup/Code Quality - Legibility, management, clarity, comments
