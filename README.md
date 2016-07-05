@@ -1,4 +1,4 @@
-Agile Web Development: Creating Media For The Web 
+Agile Web: Creating Media For The Web 
 =================================================
 (always subject to change)
 
