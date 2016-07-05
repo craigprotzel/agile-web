@@ -17,17 +17,14 @@
 	* [LA Times](http://www.latimes.com/)
 
 ##### IV. Web Dev Bootcamp - HTML & CSS
-* Download - a text editor (I use [Sublime Text](http://www.sublimetext.com/))
+* Download a text editor (I use [Sublime Text](http://www.sublimetext.com/))
 * Lecture
 * Web Edu Resources
+	* [Khan Academy - Intro to HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
+	* [Codecademy - Make A Website](https://www.codecademy.com/learn/make-a-website)
+	* [Don't Fear The Internet - Basic HTML & CSS](http://www.dontfeartheinternet.com/02-html/)
 	* [Mozilla - Intro to HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction)
 	* [Mozilla - Getting Started with CSS Tutorials Parts 1-14](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
-	* [Khan Academy - Intro to HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
-	* [Codecademy - Make A Website]()
-	* [Don't Fear The Internet - Basic HTML & CSS]()
-	* [Khan Academy - Intro to JS: Drawing & Animation]()
-	* [Javacsript For Cats]()
-	* [Khan Academy - Make An Interactive Website]()
 	
 ##### V. Homework
 * Read - [Data + Design - Ch.15 Importance of Color, Fonts, & Icons](https://infoactive.co/data-design/ch15)
