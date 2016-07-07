@@ -40,4 +40,7 @@
 * [Git & Github for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - Dan Shiffman
 
 ##### V. Homework
-* DUE - Project #1
+* DUE - Project #1  
+* Download & Install [Git](http://git-scm.com/downloads)  
+* Read [Introdcution to Git](http://sklise.com/2012/09/22/introduction-to-git/) by Steve Klise  
+* Sign Up for [Github](https://github.com/)
