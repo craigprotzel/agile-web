@@ -28,9 +28,9 @@
 	* [p5 Code Examples](https://github.com/shiffman/LearningProcessing-p5.js) - Dan Shiffman
 	* [Shiffman p5.js Videos](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=14)
 * Learning Resources
-	* [Khan Academy - Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
 	* [Javacsript For Cats](http://jsforcats.com/)
 	* [Khan Academy - Make An Interactive Website](https://www.codecademy.com/skills/make-an-interactive-website)
+	* [Khan Academy - Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
 
 ##### IV. Intro to Git
 * Download & Install - [Git](http://git-scm.com/downloads)
