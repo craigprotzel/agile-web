@@ -50,7 +50,7 @@ Schedule
 
 ##### [Class 2 (07/07): Web Fundamentals Continued + Git Basics](https://github.com/craigprotzel/agile-web/tree/master/02_Web_Fundamentals_Continued)
 
-##### [Class 3 (07/12): Project #1 Due + Intro to Javascript](https://github.com/craigprotzel/agile-web/tree/master/03_Intro_to_Javacsript)
+##### [Class 3 (07/12): Project #1 Due + Intro to Javascript](https://github.com/craigprotzel/agile-web/tree/master/03_Intro_to_Javascript)
 
 ##### Class 4 (07/14): Audio + Code  
 
