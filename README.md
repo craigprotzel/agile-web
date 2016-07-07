@@ -50,17 +50,17 @@ Schedule
 
 ##### [Class 2 (07/07): Web Fundamentals Continued + Git Basics](https://github.com/craigprotzel/agile-web/tree/master/02_Web_Fundamentals_Continued)
 
-##### Class 3 (07/12): Project #1 Due + Intro to Audio
+##### Class 3 (07/12): Project #1 Due + Intro to Javascript
 
-##### Class 4 (07/14): Audio Editing + Javascript Events  
+##### Class 4 (07/14): Audio + Code  
 
 ##### Class 5 (07/19): Project #2 Due + Intro to 2D Design
 
-##### Class 6 (07/21): Photoshop & Illustrator + p5.js
+##### Class 6 (07/21): 2D Design + Code
 
 ##### Class 7 (07/26): Project #3 Due + Intro to Video
 
-##### Class 8 (07/28): Video Editing Workshop
+##### Class 8 (07/28): Video + Code
 
 ##### Class 9 (08/02): Project #4 Due + Intro to Animation & Effects
 
