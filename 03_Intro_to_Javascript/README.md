@@ -31,4 +31,3 @@
 * [Git & Github for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - Dan Shiffman
 
 ##### V. Homework
-* DUE - Project #2
