@@ -30,11 +30,9 @@
 	* [Khan Academy - Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
 
 ##### IV. Local Host
-	* [How to Run A Local Server](https://github.com/craigprotzel/Mashups/tree/master/05_Dealing_With_Data/Local_Server)
+* [How to Run A Local Server](https://github.com/craigprotzel/Mashups/tree/master/05_Dealing_With_Data/Local_Server)
 
 ##### V. Intro to Git
-* Download & Install - [Git](http://git-scm.com/downloads)
-* [Introdcution to Git](http://sklise.com/2012/09/22/introduction-to-git/) by Steve Klise
 * [Git Workflow for Beginners](http://sklise.com/2012/10/07/git-workflow-beginner/)
 * [Interactive Git Tutorial from Gthub](http://try.github.io/levels/1/challenges/1)
 * [Git & Github for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - Dan Shiffman
