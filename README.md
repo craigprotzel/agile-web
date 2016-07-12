@@ -46,29 +46,29 @@ Grading
 
 Schedule
 --------
-##### [Class 1 (07/05): Introduction + Web Fundamentals](https://github.com/craigprotzel/agile-web/tree/master/01_Introduction_and_Web_Fundamentals) 
+#### [Class 1 (07/05): Introduction + Web Fundamentals](https://github.com/craigprotzel/agile-web/tree/master/01_Introduction_and_Web_Fundamentals) 
 
-##### [Class 2 (07/07): Web Fundamentals Continued + Git Basics](https://github.com/craigprotzel/agile-web/tree/master/02_Web_Fundamentals_Continued)
+#### [Class 2 (07/07): Web Fundamentals Continued + Git Basics](https://github.com/craigprotzel/agile-web/tree/master/02_Web_Fundamentals_Continued)
 
-##### [Class 3 (07/12): Project #1 Due + Intro to Javascript](https://github.com/craigprotzel/agile-web/tree/master/03_Intro_to_Javascript)
+#### [Class 3 (07/12): Project #1 Due + Intro to Javascript](https://github.com/craigprotzel/agile-web/tree/master/03_Intro_to_Javascript)
 
-##### [Class 4 (07/14): Audio + Code](https://github.com/craigprotzel/agile-web/tree/master/04_Audio_and_Code)    
+#### [Class 4 (07/14): Audio + Code](https://github.com/craigprotzel/agile-web/tree/master/04_Audio_and_Code)    
 
-##### [Class 5 (07/19): Project #2 Due + Intro to 2D Design](https://github.com/craigprotzel/agile-web/tree/master/05_Intro_to_2D_Design)
+#### [Class 5 (07/19): Project #2 Due + Intro to 2D Design](https://github.com/craigprotzel/agile-web/tree/master/05_Intro_to_2D_Design)
 
-##### Class 6 (07/21): 2D Design + Code
+#### Class 6 (07/21): 2D Design + Code
 
-##### Class 7 (07/26): Project #3 Due + Intro to Video
+#### Class 7 (07/26): Project #3 Due + Intro to Video
 
-##### Class 8 (07/28): Video + Code
+#### Class 8 (07/28): Video + Code
 
-##### Class 9 (08/02): Project #4 Due + Intro to Animation & Effects
+#### Class 9 (08/02): Project #4 Due + Intro to Animation & Effects
 
-##### Class 10 (08/04): Animation & Effects Continued
+#### Class 10 (08/04): Animation & Effects Continued
 
-##### Class 11 (08/05): Review Workshop
+#### Class 11 (08/05): Review Workshop
 
-##### Class 12 (8/09): Project #5 + Final Portfolio Due 
+#### Class 12 (8/09): Project #5 + Final Portfolio Due 
 
 Projects
 --------

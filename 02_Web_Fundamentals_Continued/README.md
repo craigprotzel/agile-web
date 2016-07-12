@@ -1,8 +1,8 @@
 ### Web Fundamentals Continued
 
-##### I. Homework Review
+#### I. Homework Review
 
-##### II. CSS Workshop
+#### II. CSS Workshop
 * [Awwards - Color Schemes](http://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html)
 * [CSS Positioning 101](http://alistapart.com/article/css-positioning-101)
 * [Google Fonts](https://www.google.com/fonts)
@@ -13,7 +13,7 @@
 	* [Bootstrap](http://getbootstrap.com/2.3.2/)
 	* [Bootstrap Tutorial](http://www.sitepoint.com/twitter-bootstrap-tutorial-handling-complex-designs/)
 
-##### III. Homework
+#### III. Homework
 * DUE - Project #1  
 * Download & Install [Git](http://git-scm.com/downloads)  
 * Read [Introdcution to Git](http://sklise.com/2012/09/22/introduction-to-git/) by Steve Klise  
