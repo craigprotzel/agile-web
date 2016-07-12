@@ -41,7 +41,7 @@
 
 #### VII. Homework
 * Read - [MDN Javascript Basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics)
+* Read - [How JQuery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)
 * Read - [p5 Getting Started](http://p5js.org/get-started/)  
 * Explore - [p5 Examples](http://p5js.org/examples/)
 * Download & Install - [Audacity](http://www.audacityteam.org/download/)
-* Discuss - Project #2 idea(s) with your partner
