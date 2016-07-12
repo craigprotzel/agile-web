@@ -52,9 +52,9 @@ Schedule
 
 ##### [Class 3 (07/12): Project #1 Due + Intro to Javascript](https://github.com/craigprotzel/agile-web/tree/master/03_Intro_to_Javascript)
 
-##### Class 4 (07/14): Audio + Code  
+##### [Class 4 (07/14): Audio + Code](https://github.com/craigprotzel/agile-web/tree/master/04_Audio_and_Code)    
 
-##### Class 5 (07/19): Project #2 Due + Intro to 2D Design
+##### [Class 5 (07/19): Project #2 Due + Intro to 2D Design](https://github.com/craigprotzel/agile-web/tree/master/05_Intro_to_2D_Design)
 
 ##### Class 6 (07/21): 2D Design + Code
 
