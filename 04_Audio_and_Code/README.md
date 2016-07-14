@@ -40,8 +40,8 @@
 	* Chimera - [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552/index.html)
 
 #### IV. More Local Host
-	* `cd [PATH/TO/FOLDER]`
-	* Run `python -m SimpleHTTPServer`
+* `cd [PATH/TO/FOLDER]`  
+*  Run `python -m SimpleHTTPServer`
 	
 #### V. Homework
 * Due - Project #2 
