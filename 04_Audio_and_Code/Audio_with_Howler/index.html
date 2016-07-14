@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<title>Audio with Howler Example</title>
+
+		<style>
+			audio{
+				background-color: aqua;
+				width: 500px;
+				height: 100px;
+			}
+		</style>
+
+	</head>
+	<body>
+
+		<audio controls>
+			<source src="chimes.wav" type="audio/wav">
+			Your browser does not support the audio element.
+		</audio>	
+
+		<button type="button" id="play">PLAY</button>
+		<button type="button" id="pause">PAUSE</button>
+
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+		<script src="http://cdnjs.cloudflare.com/ajax/libs/howler/1.1.17/howler.min.js"></script>
+		<script src="scripts.js"></script>
+	</body>
+</html>

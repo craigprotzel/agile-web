@@ -14,10 +14,14 @@
 	* Zoom
 	* Lav
 	* Snowball
-* [Audacity](http://www.audacityteam.org/download/)
-	* [Audacity Tutorials](http://manual.audacityteam.org/man/tutorials.html)
-* [Logic Pro X](http://www.apple.com/logic-pro/)
-* [Pro Tools](http://www.avid.com/pro-tools)
+* Editing & Mixing
+	* [Audacity](http://www.audacityteam.org/download/)
+		* [Audacity Tutorials](http://manual.audacityteam.org/man/tutorials.html)
+	* [Logic Pro X](http://www.apple.com/logic-pro/)
+	* [Pro Tools](http://www.avid.com/pro-tools)
+* Media Conversion
+	* [Media.IO](http://media.io/) - web-based tool
+	* [ffmpeg](https://ffmpeg.org/) - command line tool
 
 #### III. Audio Interactivity
 * [Howler](http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library)
