@@ -23,6 +23,16 @@ The grading rubric for this assignment is the following: (Note, each group will 
 
 #### 3: Comix
 
+Create a 4 - 6 panel "interactive" comic. Your comic can include drawings, photographs, mixed-media, whatever you like. But there MUST be some original content. Also, your piece must tell a story, live on a web page, and include some form of interactivity. Possible interactivity includes, but is not limited to, adding sound, offering different display options, triggering animation, or "choose your own adventure" features.  
+
+The grading rubric for this assignment is the following:  
+* 10: 2D Design Work
+* 10: Storytelling 
+* 10: User Experience 
+* 10: Creativity
+* 10: Web Interactivity
+
+
 #### 4: Vid-E-Oh!
 
 #### 5: Das Fx

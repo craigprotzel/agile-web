@@ -56,7 +56,7 @@ Schedule
 
 #### [Class 5 (07/19): Project #2 Due + Intro to 2D Design](https://github.com/craigprotzel/agile-web/tree/master/05_Intro_to_2D_Design)
 
-#### Class 6 (07/21): 2D Design + Code
+#### [Class 6 (07/21): 2D Design + Code](https://github.com/craigprotzel/agile-web/tree/master/06_2D_Design_and_Code)
 
 #### Class 7 (07/26): Project #3 Due + Intro to Video
 
