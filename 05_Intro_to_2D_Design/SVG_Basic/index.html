@@ -7,12 +7,18 @@
 		<link rel="stylesheet" href="main.css">
 	</head>
 	<body>
-		<!-- Make a Smiley Face -->
-		<svg id="mySVG" width="600px" height="600px">
-				<circle id="mainCirc" class="mainCircle" cx="300" cy="300" r="200"/>
-				<circle class="eyeCircles" cx="225" cy="200" r="30"/>
-				<circle class="eyeCircles" cx="375" cy="200" r="30"/>
-				<path class="myPaths" d="M150 300 Q 300 550 450 300"/>
-		</svg>
+
+		<div preserveAspectRatio="xMinYMin meet" class="svg-container">
+			<!-- Make a Smiley Face -->
+			<svg id="mySVG" viewBox="0 0 1000 1000">
+					<circle id="mainCirc" class="mainCircle" cx="500" cy="500" r="300"/>
+					<circle id="left-circle" class="eyeCircles" cx="375" cy="400" r="60"/>
+					<circle id="right-circle" class="eyeCircles" cx="625" cy="400" r="60"/>
+					<path id="mouth" class="myPaths" d="M325 550 Q 500 800 675 550"/>
+			</svg>
+		</div>	
+				
+		<script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+		<script src="scripts.js"></script>
 	</body>
 </html>

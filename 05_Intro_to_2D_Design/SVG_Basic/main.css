@@ -1,7 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.svg-container { 
+    margin: 0 auto;
+    width: 60%;
+}
+
 #mySVG{
 	display: block;
     background-color: aqua;
-    margin: 10px auto;
+    margin: 20px auto;
 }
 svg .mainCircle{
     fill: yellow;
