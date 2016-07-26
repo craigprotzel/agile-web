@@ -64,11 +64,13 @@ Schedule
 
 #### Class 9 (08/02): Project #4 Due + Intro to Animation & Effects
 
-#### Class 10 (08/04): Animation & Effects Continued
+#### Class 10 (08/04): Animation & Effects Continued (9am-12pm)
 
-#### Class 11 (08/05): Review Workshop
+#### Class 11 (08/04): Review Workshop (12pm - 3pm)
 
-#### Class 12 (8/09): Project #5 + Final Portfolio Due 
+#### Class 12 (8/09): Project #5
+
+#### Final (08/12): Final Portfolio Due
 
 Projects
 --------
