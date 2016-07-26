@@ -3,9 +3,7 @@ var sound;
 function setup() {
 	createCanvas(400,400);
 	background(100,150,200);
-
 	sound = loadSound('chimes.wav');
-	//console.log("Setup!!!!");
 }
 
 function draw() {

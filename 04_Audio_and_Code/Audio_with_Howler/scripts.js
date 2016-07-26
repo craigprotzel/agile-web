@@ -11,7 +11,7 @@ function setClickEvents(){
 
 function createHowl(link){
 	sound = new Howl({
-		urls: ['chimes.wav'],
+		src: ['chimes.wav'],
 		onload: function() {
 			console.log("Loaded!");
 			$("button#play").css('background-color', 'green');

@@ -32,8 +32,18 @@ The grading rubric for this assignment is the following:
 * 10: Creativity
 * 10: Web Interactivity
 
-
 #### 4: Vid-E-Oh!
+
+Create a web page for the launch of "something new". This could be a product, a movie,  a politician, an app, anything you can imagine. Your job is to create a single web page that introduces the new thing and gives us a glimpse into what is to come. On the page, you must have a 60 second video that promotes this new thing.  
+
+Some references include [Kickstarters](https://www.kickstarter.com/), [Movie teaser trailers](http://movies.disney.com/finding-dory), and [TV Shows](https://www.whoismrrobot.com/).
+
+The grading rubric for this assignment is the following:  
+* 10: Video Production
+* 10: Video Editing
+* 10: User Experience 
+* 10: Creativity
+* 10: Web Interactivity
 
 #### 5: Das Fx
 
