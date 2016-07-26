@@ -31,5 +31,5 @@
 * Assign Groups
 
 #### V. Homework
-* In your group, prepare a "paper prototype" for Project #4. This could be a script, a stroyboards, an outline, images, etc. You should be able to convey your idea to the class.
+* In your group, prepare a "paper prototype" for Project #4. This could be a script, a stroyboard, an outline, a set of images, etc. Whatever you decide, your group should be able to convey your idea to the class.
 
