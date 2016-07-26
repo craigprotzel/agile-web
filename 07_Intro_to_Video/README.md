@@ -27,8 +27,8 @@
 	* [Webby Awards](http://webbyawards.com/)
 
 #### IV. Project #4 Discussion
-	* Review Brief
-	* Assign Groups
+* Review Brief
+* Assign Groups
 
 #### V. Homework
 * In your group, prepare a "paper prototype" for Project #4. This could be a script, a stroyboards, an outline, images, etc. You should be able to convey your idea to the class.
