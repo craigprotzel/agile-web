@@ -1,0 +1,66 @@
+html, body{
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+}
+
+/*BUTTON STYLING*/
+
+
+#nav {
+	margin: 30px 0;
+	padding: 0;
+	text-align:center;
+}
+#nav li {
+	padding: 0;
+	margin: 10px 20px;
+	display: inline;
+}
+
+.button{
+	display: inline;
+	padding: 10px;
+	color: black;
+	border-style: solid;
+	border-width: 4px;
+	border-color: black;
+	text-align: center;
+}
+.button:hover{
+	background-color: rgb(195,135,0);
+}
+
+/*VIDEO STYLING*/
+.videoContainer{
+	margin: 40px auto;
+	width: 100%;
+}
+
+#videoTitle{
+	width: 80%;
+	margin: 10px auto;
+	text-align: center;
+	font-size: 24px;
+}
+
+#video iframe{
+	display: block;
+	margin: 0 auto;
+}
+
+#videoDescription{
+	width: 80%;
+	margin: 20px auto;
+	text-align: center;
+	font-size: 16px;
+}
+
+@media (max-width: 660px) {
+	#video iframe{
+		width: 75%;
+		height: 240px;
+  }
+}
+
+

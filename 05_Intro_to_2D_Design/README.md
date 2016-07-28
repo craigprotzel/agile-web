@@ -4,6 +4,7 @@
 
 #### II. Storytelling
 * Ira Glass - [Storytelling Part 1](https://www.youtube.com/watch?v=loxJ3FtCJJA)
+* Scott McCloud - Understanding Comics
 * Examples
 	* [Bus Bunching](http://interactive.wbez.org/curiouscity/bus-bunching/)
 	* [The Confrontation: Different Stories](http://www.washingtonpost.com/wp-srv/special/national/ferguson-grand-jury-findings/)

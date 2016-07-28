@@ -68,7 +68,7 @@ Schedule
 
 #### Class 11 (08/04): Review Workshop (12pm - 3pm)
 
-#### Class 12 (8/09): Project #5
+#### Class 12 (8/09): Project #5 Due + Course Review
 
 #### Final (08/12): Final Portfolio Due
 
@@ -79,7 +79,7 @@ Projects
 **2) Sounds Like**  
 **3) Comix**  
 **4) Vid-E-Oh!**  
-**5) Das Fx**  
+**5) Das FX**  
 
 Final Web Portfolio
 -------------------

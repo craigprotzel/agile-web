@@ -3,7 +3,7 @@
 #### I. Project #3 Due
 
 #### II. Video Fundamentals
-* Lecture
+* [Lecture](https://dl.dropboxusercontent.com/u/9648298/CommLab_Spring2016_Production_Fundamentals.pdf)
 * Learning Resources
 	* [Vimeo Video School - Do More With Your DSLR](https://vimeo.com/36557938)
 	* [The Easy Guide to Understanding Aperture (f Stop)](http://www.redbubble.com/people/peterh111/journal/5725038-the-easy-guide-to-understanding-aperture-f-stop)
