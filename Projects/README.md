@@ -45,6 +45,15 @@ The grading rubric for this assignment is the following:
 * 10: Creativity
 * 10: Web Interactivity
 
-#### 5: Das Fx
+#### 5: Das FX
 
+Create a :30 Animation/Effects video with sound that lives on a web page and incorporates some form of interactivity. Your piece must have an identifiable main character, tell a story, and demonstrate at least one "special effects" technique.
 
+A nice example is [Cornelius & Wendell](http://nme247.nyuad.im/Animation%20project/Animation.html).
+
+The grading rubric for this assignment is the following:
+* 10: Animation/Effects Production
+* 10: Animation/Effects Editing 
+* 10: User Experience
+* 10: Creativity 
+* 10: Web Implementation/Interactivity

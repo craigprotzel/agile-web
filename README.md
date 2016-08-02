@@ -62,13 +62,13 @@ Schedule
 
 #### [Class 8 (07/28): Video + Code](https://github.com/craigprotzel/agile-web/tree/master/08_Video_and_Code)
 
-#### Class 9 (08/02): Project #4 Due + Intro to Animation & Effects
+#### [Class 9 (08/02): Project #4 Due + Intro to Animation & Effects](https://github.com/craigprotzel/agile-web/tree/master/09_Intro_to_Animation_and_Effects)
 
-#### Class 10 (08/04): Animation & Effects Continued (9am-12pm)
+#### [Class 10 (08/04): Animation & Effects Continued (9am-12pm)](https://github.com/craigprotzel/agile-web/tree/master/10_Animation_and_Effects_Continued)
 
-#### Class 11 (08/04): Review Workshop (12pm - 3pm)
+#### [Class 11 (08/04): Review Workshop (12pm - 3pm)](https://github.com/craigprotzel/agile-web/tree/master/11_Review_Workshop)
 
-#### Class 12 (8/09): Project #5 Due + Course Review
+#### [Class 12 (8/09): Project #5 Due + Course Review](https://github.com/craigprotzel/agile-web/tree/master/12_Final_Class)
 
 #### Final (08/12): Final Portfolio Due
 
