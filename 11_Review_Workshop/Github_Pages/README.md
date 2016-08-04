@@ -22,7 +22,7 @@ This is a quick step-by-step guide on how to deploy to Github Pages for Mashups 
 	git commit -m "First commit"
 	```
 	* At anytime it is helpful to execute `git status` or `git status -s` for a "short" version of what the state of the git repository is.
-	* If you are unsure of what is going to be added to the git repository when you run `git add .`, you can always type `git add -n .` to do a test run of what will occur. 
+	* If you are unsure of what is going to be added to the git repository when you run `git add -A`, you can always type `git add -n .` to do a test run of what will occur. 
 	* If you are only interested in adding a specific file to the repository you can type `git add file-name` to add only a specific file
 
 ### Step 4: Create A Github Repository
