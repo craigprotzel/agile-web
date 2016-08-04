@@ -1,0 +1,24 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: yellow;
+}
+
+#blur-slider{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+canvas{
+	display: block;
+	margin: 0 auto;
+}
+
+.center-box{
+	font-size: 64px;
+	position: absolute;
+	text-align: center;
+	top: 300px;
+	width: 100%;
+}

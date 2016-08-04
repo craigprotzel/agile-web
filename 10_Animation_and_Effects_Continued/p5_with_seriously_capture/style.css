@@ -1,0 +1,14 @@
+body{
+	background-color: #F0C;
+}
+
+#blur-slider{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+canvas{
+	display: block;
+	margin: 0 auto;
+}

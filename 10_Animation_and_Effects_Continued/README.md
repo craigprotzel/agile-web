@@ -6,4 +6,6 @@
 
 #### III. Effects and Code
 * [Tanlines - Not the Same](http://www.notthesa.me/)
+* [SeriouslyJS](https://github.com/brianchirls/Seriously.js/)
+* Dan Shiffman Tutorial - [Video Effects with Seriously.js](https://www.youtube.com/watch?v=jdKep6jo7b0)
 
