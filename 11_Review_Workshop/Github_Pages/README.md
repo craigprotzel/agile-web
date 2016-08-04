@@ -22,13 +22,13 @@ This is a quick step-by-step guide on how to deploy to Github Pages for Mashups 
 	git commit -m "First commit"
 	```
 	* At anytime it is helpful to execute `git status` or `git status -s` for a "short" version of what the state of the git repository is.
-	* If you are unsure of what is going to be added to the git repository when you run `git add -A`, you can always type `git add -n .` to do a test run of what will occur. 
+	* If you are unsure of what is going to be added to the git repository when you run `git add -A`, you can always type `git add -A -n .` to do a test run of what will occur. 
 	* If you are only interested in adding a specific file to the repository you can type `git add file-name` to add only a specific file
 
 ### Step 4: Create A Github Repository
 * You will need an account on [Github](https://github.com/)
 * Follow the ['Create A New Repository on Github'](https://help.github.com/articles/create-a-repo) steps provided by Github's Help pages. Note, **DO NOT MAKE A README.md** file when making a new repository. We can do this ourselves at a later time.
-* Once you create a repository, you want to follow the second set of instructions that says **'...or push an existing repository from the command line'**. And enter the provided commands
+* Once you create a repository, you want to follow the second set of instructions that says **'...or push an existing repository from the command line'**. And enter the provided commands into the command line.
 
 	```
 	git remote add origin git@github.com:your-user-name-goes-here/your-reposotry-name-goes-here.git
@@ -67,15 +67,17 @@ This is a quick step-by-step guide on how to deploy to Github Pages for Mashups 
 	git checkout master
 	```
 You will be back in your master branch and can continue your normal workflow. 
-* If/when you make changes to your files and want to push your updated code to Github, you should first make a normal commit to your repo and push the changes to Github    
+* If/when you make changes to your files and want to push your updated code to Github, you should first make a normal commit to your repo and push the changes to Github
+
+	```  
+	git add -A  
+	git commit -m "Made some changes"  
+	git push origin master  
 	```
-	git add -A
-	git commit -m "Made some changes"
-	git push origin master
+* Then, once your changes have been sent to Github, update your gh-pages branch **locally on your computer**  
+
 	```
-* Then, once your changes have been sent to Github, update your gh-pages branch **locally on your computer**     
-	```
-	git checkout gh-pages
+	git checkout gh-pages  
 	git merge master
 	```
 * Send the updated gh-pages branch to github    
